@@ -5,7 +5,10 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      nav: ["Jost", "sans-serif"],
+      title: ["Nunito", "sans-serif"]
+    }
   },
   plugins: [],
 }
-
